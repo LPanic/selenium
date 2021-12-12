@@ -1,1 +1,8 @@
-# selenium
+# Selenium Automation Script
+
+
+## Voraussetzungen
+
+
+## Anleitung
+
