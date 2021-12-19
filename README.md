@@ -14,7 +14,7 @@ Um die Ergebnisse im eigenen Netzwerk nachvollziehen zu können, wird vorausgese
 - PADD für die Auswertung der Daten: https://learn.adafruit.com/pi-hole-ad-pitft-tft-detection-display/install-padd
 <br />
 
-## Anleitung
+## Punkt 2 - Anleitung
  <br />
 - Sicherstellen, dass alle Voraussetzungen unter "Punkt 1" erfüllt sind.
 - Repository klonen oder herunterladen.
@@ -31,7 +31,7 @@ Um die Ergebnisse im eigenen Netzwerk nachvollziehen zu können, wird vorausgese
 
  <br />
  
-## Dauer der Tests
+## Punkt 3 - Dauer der Tests
 
  <br />
  
